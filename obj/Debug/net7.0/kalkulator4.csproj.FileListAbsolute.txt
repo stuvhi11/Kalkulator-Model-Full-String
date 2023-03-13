@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\bin\Debug\net7.0\kalkulator4.exe
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\bin\Debug\net7.0\kalkulator4.deps.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\bin\Debug\net7.0\kalkulator4.runtimeconfig.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\bin\Debug\net7.0\kalkulator4.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\bin\Debug\net7.0\kalkulator4.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\refint\kalkulator4.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\kalkulator4.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\kalkulator4\obj\Debug\net7.0\ref\kalkulator4.dll
